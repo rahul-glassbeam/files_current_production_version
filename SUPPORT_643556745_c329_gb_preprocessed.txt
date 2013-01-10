@@ -1,0 +1,2169 @@
+CDR_TICKET::SUPPORT_643556745::c329
+File Version: 675
+Conference Routing Name: SUPPORT_643556745
+Internal Conference ID: 421
+Reserved Start Time: Friday, October 05, 2012 4:21:03 PM
+Reserved Duration: 01:00:00
+Actual Start Time: Friday, October 05, 2012 4:21:03 PM
+Actual Duration: 01:00:00
+Status: Ongoing Conference
+File Name: c329
+GMT Offset: --4:0
+File Retrieved: Yes
+Reserved resources for Audio Participants: 0
+Reserved resources for Video Participants: 0
+--END_CDR_DETAILS--
+--BEGIN CDR BLOCK--1|CONFERENCE START|1|Friday, October 05, 2012 4:21:03 PM|
+Dial-out Manually: No
+Auto Terminate: Yes
+Line Rate: 384 Kbps
+Audio Algorithm: auto
+Video Session: Continuous Presence
+Video Format: auto
+CIF Frame Rate: auto
+QCIF Frame Rate: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--2|CONFERENCE START CONTINUE 1|1|Friday, October 05, 2012 4:21:03 PM|
+Talk Hold Time: 300 x 0.01 seconds
+Audio Mix Depth: 5
+Video Protocol: Auto
+Meet Me Per Conference: No
+Chairperson Password:
+Cascade Mode: None
+Minimum Number of Participants: 0
+Allow Undefined Participants: Yes
+Time Before First Participant Joins (Auto Terminate): 25 minutes
+Time After Last Participant Quits (Auto Terminate): 10 minutes
+Maximum Number of Participants: Automatic
+Message Service Type: IVR Service
+Conference IVR Service: Conference IVR Servi
+Lecture Mode Type: None
+Lecturer:
+Time Interval: 15 seconds
+Lecturer View Switching: No
+Operator conf: False
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--3|CONFERENCE START CONTINUE 4|1|Friday, October 05, 2012 4:21:03 PM|
+Conference ID: 80438
+Conference Password:
+Chairperson Password:
+Info1:
+Info2:
+Info3:
+Billing Info:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--4|CONFERENCE START CONTINUE 5|1|Friday, October 05, 2012 4:21:03 PM|
+Encryption: No
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--5|CONFERENCE START CONTINUE 10|1|Friday, October 05, 2012 4:21:03 PM|
+Display Name: SUPPORT_643556745
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--6|USER ADD PARTICIPANT|6|Friday, October 05, 2012 4:21:15 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--7|USER ADD PARTICIPANT CONTINUE 1|6|Friday, October 05, 2012 4:21:15 PM|1
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 140.242.225.81
+Signaling Port: 1720
+H.323 Participant Alias Type: H.323 ID
+H.323 Participant Alias Name:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--8|USER ADD PARTICIPANT CONTINUE 2|6|Friday, October 05, 2012 4:21:15 PM|1
+Participant Name: test
+Participant ID: 1
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--9|PARTICIPANT INFO|6|Friday, October 05, 2012 4:21:15 PM|1
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--10|GATEKEEPER INFORMATION|10|Friday, October 05, 2012 4:21:16 PM|0
+Participant Name: test
+Participant ID: 0
+Gatekeeper Caller ID: 07c38be4-6d46-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--11|PARTICIPANT DISCONNECTED|11|Friday, October 05, 2012 4:21:16 PM|1
+Participant Name: test
+Participant ID: 1
+Call Disconnection Cause: h323_call_closed_remote_busy
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--12|PARTICIPANT DISCONNECTED CONTINUE 1|11|Friday, October 05, 2012 4:21:16 PM|1
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 0
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--13|USER RECONNECT PARTICIPANT|13|Friday, October 05, 2012 4:21:56 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--14|GATEKEEPER INFORMATION|14|Friday, October 05, 2012 4:21:56 PM|0
+Participant Name: test
+Participant ID: 0
+Gatekeeper Caller ID: fbb8ba4e-7746-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--15|PARTICIPANT's LINE RATE CONNECTION|15|Friday, October 05, 2012 4:21:59 PM|1
+Participant Name: test
+Participant ID: 1
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--16|H323 PARTICIPANT CONNECTED|16|Friday, October 05, 2012 4:21:59 PM|1
+Participant Name: test
+Participant ID: 1
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--17|USER DISCONNECT PARTICIPANT|17|Friday, October 05, 2012 4:22:25 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--18|PARTICIPANT DISCONNECTED|18|Friday, October 05, 2012 4:22:25 PM|1
+Participant Name: test
+Participant ID: 1
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--19|PARTICIPANT DISCONNECTED CONTINUE 1|18|Friday, October 05, 2012 4:22:25 PM|1
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--20|USER RECONNECT PARTICIPANT|20|Friday, October 05, 2012 4:22:53 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--21|GATEKEEPER INFORMATION|21|Friday, October 05, 2012 4:22:54 PM|0
+Participant Name: test
+Participant ID: 0
+Gatekeeper Caller ID: 01b850ae-8446-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--22|PARTICIPANT's LINE RATE CONNECTION|22|Friday, October 05, 2012 4:22:56 PM|1
+Participant Name: test
+Participant ID: 1
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--23|H323 PARTICIPANT CONNECTED|23|Friday, October 05, 2012 4:22:56 PM|1
+Participant Name: test
+Participant ID: 1
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--24|USER ADD PARTICIPANT|24|Friday, October 05, 2012 4:24:02 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--25|USER ADD PARTICIPANT CONTINUE 1|24|Friday, October 05, 2012 4:24:02 PM|2
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: Email ID
+H.323 Participant Alias Name: 1001@172.25.24.52
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--26|USER ADD PARTICIPANT CONTINUE 2|24|Friday, October 05, 2012 4:24:02 PM|2
+Participant Name: test1
+Participant ID: 2
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--27|PARTICIPANT INFO|24|Friday, October 05, 2012 4:24:02 PM|2
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--28|PARTICIPANT DISCONNECTED|28|Friday, October 05, 2012 4:24:04 PM|2
+Participant Name: test1
+Participant ID: 2
+Call Disconnection Cause: h323_call_closed_remote_unreachable
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--29|PARTICIPANT DISCONNECTED CONTINUE 1|28|Friday, October 05, 2012 4:24:04 PM|2
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 0
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--30|USER UPDATE PARTICIPANT|30|Friday, October 05, 2012 4:24:19 PM|2
+User Name:
+Participant Name: test1
+Participant ID: 2
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Unknown
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--31|USER UPDATE PARTICIPANT CONTINUE 1|30|Friday, October 05, 2012 4:24:19 PM|2
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 521001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--32|USER UPDATE PARTICIPANT CONTINUE 1|30|Friday, October 05, 2012 4:24:19 PM|2
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 521001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--33|USER ADD PARTICIPANT CONTINUE 2|30|Friday, October 05, 2012 4:24:19 PM|2
+Encryption: auto
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--34|PARTICIPANT INFO|30|Friday, October 05, 2012 4:24:19 PM|2
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--35|PARTICIPANT DISCONNECTED|35|Friday, October 05, 2012 4:24:20 PM|2
+Participant Name: test1
+Participant ID: 2
+Call Disconnection Cause: h323_call_closed_gatekeeper_reject_arq
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--36|PARTICIPANT DISCONNECTED CONTINUE 1|35|Friday, October 05, 2012 4:24:21 PM|2
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 0
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--37|USER UPDATE PARTICIPANT|37|Friday, October 05, 2012 4:25:49 PM|2
+User Name:
+Participant Name: test1
+Participant ID: 2
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Unknown
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--38|USER UPDATE PARTICIPANT CONTINUE 1|37|Friday, October 05, 2012 4:25:49 PM|2
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--39|USER UPDATE PARTICIPANT CONTINUE 1|37|Friday, October 05, 2012 4:25:49 PM|2
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--40|USER ADD PARTICIPANT CONTINUE 2|37|Friday, October 05, 2012 4:25:49 PM|2
+Encryption: auto
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--41|PARTICIPANT INFO|37|Friday, October 05, 2012 4:25:49 PM|2
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--42|GATEKEEPER INFORMATION|42|Friday, October 05, 2012 4:25:50 PM|0
+Participant Name: test1
+Participant ID: 0
+Gatekeeper Caller ID: 4bff61b3-ad46-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--43|PARTICIPANT's LINE RATE CONNECTION|43|Friday, October 05, 2012 4:25:51 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--44|H323 PARTICIPANT CONNECTED|44|Friday, October 05, 2012 4:25:51 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--45|USER ADD PARTICIPANT|45|Friday, October 05, 2012 4:26:05 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--46|USER ADD PARTICIPANT CONTINUE 1|45|Friday, October 05, 2012 4:26:05 PM|3
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--47|USER ADD PARTICIPANT CONTINUE 2|45|Friday, October 05, 2012 4:26:05 PM|3
+Participant Name: tes2
+Participant ID: 3
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--48|PARTICIPANT INFO|45|Friday, October 05, 2012 4:26:05 PM|3
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--49|GATEKEEPER INFORMATION|49|Friday, October 05, 2012 4:26:06 PM|0
+Participant Name: tes2
+Participant ID: 0
+Gatekeeper Caller ID: a12cbf5e-b146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--50|PARTICIPANT's LINE RATE CONNECTION|50|Friday, October 05, 2012 4:26:06 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--51|H323 PARTICIPANT CONNECTED|51|Friday, October 05, 2012 4:26:07 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--52|USER ADD PARTICIPANT|52|Friday, October 05, 2012 4:26:14 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--53|USER ADD PARTICIPANT CONTINUE 1|52|Friday, October 05, 2012 4:26:14 PM|4
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--54|USER ADD PARTICIPANT CONTINUE 2|52|Friday, October 05, 2012 4:26:14 PM|4
+Participant Name: test3
+Participant ID: 4
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--55|PARTICIPANT INFO|52|Friday, October 05, 2012 4:26:14 PM|4
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--56|GATEKEEPER INFORMATION|56|Friday, October 05, 2012 4:26:14 PM|0
+Participant Name: test3
+Participant ID: 0
+Gatekeeper Caller ID: b800c571-b346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--57|PARTICIPANT's LINE RATE CONNECTION|57|Friday, October 05, 2012 4:26:15 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--58|H323 PARTICIPANT CONNECTED|58|Friday, October 05, 2012 4:26:16 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--59|USER ADD PARTICIPANT|59|Friday, October 05, 2012 4:26:21 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--60|USER ADD PARTICIPANT CONTINUE 1|59|Friday, October 05, 2012 4:26:21 PM|5
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--61|USER ADD PARTICIPANT CONTINUE 2|59|Friday, October 05, 2012 4:26:21 PM|5
+Participant Name: test6
+Participant ID: 5
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--62|PARTICIPANT INFO|59|Friday, October 05, 2012 4:26:21 PM|5
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--63|GATEKEEPER INFORMATION|63|Friday, October 05, 2012 4:26:21 PM|0
+Participant Name: test6
+Participant ID: 0
+Gatekeeper Caller ID: 370273fd-b446-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--64|PARTICIPANT's LINE RATE CONNECTION|64|Friday, October 05, 2012 4:26:22 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--65|H323 PARTICIPANT CONNECTED|65|Friday, October 05, 2012 4:26:22 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--66|USER ADD PARTICIPANT|66|Friday, October 05, 2012 4:26:28 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--67|USER ADD PARTICIPANT CONTINUE 1|66|Friday, October 05, 2012 4:26:28 PM|6
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--68|USER ADD PARTICIPANT CONTINUE 2|66|Friday, October 05, 2012 4:26:28 PM|6
+Participant Name: test7
+Participant ID: 6
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--69|PARTICIPANT INFO|66|Friday, October 05, 2012 4:26:28 PM|6
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--70|GATEKEEPER INFORMATION|70|Friday, October 05, 2012 4:26:28 PM|0
+Participant Name: test7
+Participant ID: 0
+Gatekeeper Caller ID: b00e4798-b646-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--71|PARTICIPANT's LINE RATE CONNECTION|71|Friday, October 05, 2012 4:26:29 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--72|H323 PARTICIPANT CONNECTED|72|Friday, October 05, 2012 4:26:29 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--73|USER ADD PARTICIPANT|73|Friday, October 05, 2012 4:26:34 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--74|USER ADD PARTICIPANT CONTINUE 1|73|Friday, October 05, 2012 4:26:34 PM|7
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--75|USER ADD PARTICIPANT CONTINUE 2|73|Friday, October 05, 2012 4:26:34 PM|7
+Participant Name: test8
+Participant ID: 7
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--76|PARTICIPANT INFO|73|Friday, October 05, 2012 4:26:34 PM|7
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--77|GATEKEEPER INFORMATION|77|Friday, October 05, 2012 4:26:34 PM|0
+Participant Name: test8
+Participant ID: 0
+Gatekeeper Caller ID: cc5b8b09-b846-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--78|PARTICIPANT's LINE RATE CONNECTION|78|Friday, October 05, 2012 4:26:35 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--79|H323 PARTICIPANT CONNECTED|79|Friday, October 05, 2012 4:26:35 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--80|USER ADD PARTICIPANT|80|Friday, October 05, 2012 4:26:39 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--81|USER ADD PARTICIPANT CONTINUE 1|80|Friday, October 05, 2012 4:26:39 PM|8
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--82|USER ADD PARTICIPANT CONTINUE 2|80|Friday, October 05, 2012 4:26:39 PM|8
+Participant Name: test9
+Participant ID: 8
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--83|PARTICIPANT INFO|80|Friday, October 05, 2012 4:26:39 PM|8
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--84|GATEKEEPER INFORMATION|84|Friday, October 05, 2012 4:26:39 PM|0
+Participant Name: test9
+Participant ID: 0
+Gatekeeper Caller ID: 97f60b30-b946-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--85|PARTICIPANT's LINE RATE CONNECTION|85|Friday, October 05, 2012 4:26:40 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--86|H323 PARTICIPANT CONNECTED|86|Friday, October 05, 2012 4:26:41 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--87|USER DISCONNECT PARTICIPANT|87|Friday, October 05, 2012 4:26:52 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--88|USER DISCONNECT PARTICIPANT|88|Friday, October 05, 2012 4:26:52 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--89|USER DISCONNECT PARTICIPANT|89|Friday, October 05, 2012 4:26:52 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--90|USER DISCONNECT PARTICIPANT|90|Friday, October 05, 2012 4:26:52 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--91|USER DISCONNECT PARTICIPANT|91|Friday, October 05, 2012 4:26:52 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--92|USER DISCONNECT PARTICIPANT|92|Friday, October 05, 2012 4:26:52 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--93|USER DISCONNECT PARTICIPANT|93|Friday, October 05, 2012 4:26:52 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--94|USER DISCONNECT PARTICIPANT|94|Friday, October 05, 2012 4:26:52 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--95|PARTICIPANT DISCONNECTED|95|Friday, October 05, 2012 4:26:52 PM|1
+Participant Name: test
+Participant ID: 1
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--96|PARTICIPANT DISCONNECTED CONTINUE 1|95|Friday, October 05, 2012 4:26:52 PM|1
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--97|PARTICIPANT DISCONNECTED|97|Friday, October 05, 2012 4:26:53 PM|2
+Participant Name: test1
+Participant ID: 2
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--98|PARTICIPANT DISCONNECTED CONTINUE 1|97|Friday, October 05, 2012 4:26:53 PM|2
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--99|PARTICIPANT DISCONNECTED|99|Friday, October 05, 2012 4:26:53 PM|3
+Participant Name: tes2
+Participant ID: 3
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--100|PARTICIPANT DISCONNECTED CONTINUE 1|99|Friday, October 05, 2012 4:26:53 PM|3
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--101|PARTICIPANT DISCONNECTED|101|Friday, October 05, 2012 4:26:54 PM|4
+Participant Name: test3
+Participant ID: 4
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--102|PARTICIPANT DISCONNECTED CONTINUE 1|101|Friday, October 05, 2012 4:26:54 PM|4
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--103|PARTICIPANT DISCONNECTED|103|Friday, October 05, 2012 4:26:54 PM|5
+Participant Name: test6
+Participant ID: 5
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--104|PARTICIPANT DISCONNECTED CONTINUE 1|103|Friday, October 05, 2012 4:26:54 PM|5
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--105|PARTICIPANT DISCONNECTED|105|Friday, October 05, 2012 4:26:55 PM|6
+Participant Name: test7
+Participant ID: 6
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--106|PARTICIPANT DISCONNECTED CONTINUE 1|105|Friday, October 05, 2012 4:26:55 PM|6
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--107|PARTICIPANT DISCONNECTED|107|Friday, October 05, 2012 4:26:55 PM|7
+Participant Name: test8
+Participant ID: 7
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--108|PARTICIPANT DISCONNECTED CONTINUE 1|107|Friday, October 05, 2012 4:26:55 PM|7
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--109|PARTICIPANT DISCONNECTED|109|Friday, October 05, 2012 4:26:56 PM|8
+Participant Name: test9
+Participant ID: 8
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--110|PARTICIPANT DISCONNECTED CONTINUE 1|109|Friday, October 05, 2012 4:26:56 PM|8
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--111|USER RECONNECT PARTICIPANT|111|Friday, October 05, 2012 4:27:03 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--112|GATEKEEPER INFORMATION|112|Friday, October 05, 2012 4:27:03 PM|0
+Participant Name: test
+Participant ID: 0
+Gatekeeper Caller ID: 7a8696d4-be46-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--113|PARTICIPANT's LINE RATE CONNECTION|113|Friday, October 05, 2012 4:27:06 PM|1
+Participant Name: test
+Participant ID: 1
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--114|H323 PARTICIPANT CONNECTED|114|Friday, October 05, 2012 4:27:06 PM|1
+Participant Name: test
+Participant ID: 1
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--115|USER RECONNECT PARTICIPANT|115|Friday, October 05, 2012 4:27:11 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--116|GATEKEEPER INFORMATION|116|Friday, October 05, 2012 4:27:11 PM|0
+Participant Name: test1
+Participant ID: 0
+Gatekeeper Caller ID: d603c9a6-c046-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--117|USER RECONNECT PARTICIPANT|117|Friday, October 05, 2012 4:27:12 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--118|GATEKEEPER INFORMATION|118|Friday, October 05, 2012 4:27:12 PM|0
+Participant Name: tes2
+Participant ID: 0
+Gatekeeper Caller ID: 84d2d9d8-c046-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--119|PARTICIPANT's LINE RATE CONNECTION|119|Friday, October 05, 2012 4:27:12 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--120|H323 PARTICIPANT CONNECTED|120|Friday, October 05, 2012 4:27:12 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--121|USER RECONNECT PARTICIPANT|121|Friday, October 05, 2012 4:27:13 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--122|PARTICIPANT's LINE RATE CONNECTION|122|Friday, October 05, 2012 4:27:13 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--123|H323 PARTICIPANT CONNECTED|123|Friday, October 05, 2012 4:27:13 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--124|GATEKEEPER INFORMATION|124|Friday, October 05, 2012 4:27:13 PM|0
+Participant Name: test3
+Participant ID: 0
+Gatekeeper Caller ID: 6bc8cb0f-c146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--125|USER RECONNECT PARTICIPANT|125|Friday, October 05, 2012 4:27:14 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--126|GATEKEEPER INFORMATION|126|Friday, October 05, 2012 4:27:14 PM|0
+Participant Name: test6
+Participant ID: 0
+Gatekeeper Caller ID: 4970f53f-c146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--127|PARTICIPANT's LINE RATE CONNECTION|127|Friday, October 05, 2012 4:27:14 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--128|H323 PARTICIPANT CONNECTED|128|Friday, October 05, 2012 4:27:14 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--129|USER RECONNECT PARTICIPANT|129|Friday, October 05, 2012 4:27:14 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--130|GATEKEEPER INFORMATION|130|Friday, October 05, 2012 4:27:15 PM|0
+Participant Name: test7
+Participant ID: 0
+Gatekeeper Caller ID: 3cee0a73-c146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--131|PARTICIPANT's LINE RATE CONNECTION|131|Friday, October 05, 2012 4:27:15 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--132|H323 PARTICIPANT CONNECTED|132|Friday, October 05, 2012 4:27:15 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--133|USER RECONNECT PARTICIPANT|133|Friday, October 05, 2012 4:27:15 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--134|GATEKEEPER INFORMATION|134|Friday, October 05, 2012 4:27:15 PM|0
+Participant Name: test8
+Participant ID: 0
+Gatekeeper Caller ID: c1246ca4-c146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--135|PARTICIPANT's LINE RATE CONNECTION|135|Friday, October 05, 2012 4:27:15 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--136|H323 PARTICIPANT CONNECTED|136|Friday, October 05, 2012 4:27:16 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--137|USER RECONNECT PARTICIPANT|137|Friday, October 05, 2012 4:27:16 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--138|PARTICIPANT's LINE RATE CONNECTION|138|Friday, October 05, 2012 4:27:16 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--139|GATEKEEPER INFORMATION|139|Friday, October 05, 2012 4:27:16 PM|0
+Participant Name: test9
+Participant ID: 0
+Gatekeeper Caller ID: e4a51ae1-c146-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--140|H323 PARTICIPANT CONNECTED|140|Friday, October 05, 2012 4:27:16 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--141|PARTICIPANT's LINE RATE CONNECTION|141|Friday, October 05, 2012 4:27:17 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--142|H323 PARTICIPANT CONNECTED|142|Friday, October 05, 2012 4:27:17 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--143|PARTICIPANT DISCONNECTED|143|Friday, October 05, 2012 4:29:32 PM|2
+Participant Name: test1
+Participant ID: 2
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--144|PARTICIPANT DISCONNECTED CONTINUE 1|143|Friday, October 05, 2012 4:29:32 PM|2
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--145|PARTICIPANT DISCONNECTED|145|Friday, October 05, 2012 4:29:32 PM|3
+Participant Name: tes2
+Participant ID: 3
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--146|PARTICIPANT DISCONNECTED CONTINUE 1|145|Friday, October 05, 2012 4:29:32 PM|3
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--147|PARTICIPANT DISCONNECTED|147|Friday, October 05, 2012 4:29:33 PM|4
+Participant Name: test3
+Participant ID: 4
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--148|PARTICIPANT DISCONNECTED CONTINUE 1|147|Friday, October 05, 2012 4:29:33 PM|4
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--149|PARTICIPANT DISCONNECTED|149|Friday, October 05, 2012 4:29:33 PM|5
+Participant Name: test6
+Participant ID: 5
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--150|PARTICIPANT DISCONNECTED CONTINUE 1|149|Friday, October 05, 2012 4:29:33 PM|5
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--151|PARTICIPANT DISCONNECTED|151|Friday, October 05, 2012 4:29:34 PM|6
+Participant Name: test7
+Participant ID: 6
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--152|PARTICIPANT DISCONNECTED CONTINUE 1|151|Friday, October 05, 2012 4:29:34 PM|6
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--153|PARTICIPANT DISCONNECTED|153|Friday, October 05, 2012 4:29:34 PM|7
+Participant Name: test8
+Participant ID: 7
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--154|PARTICIPANT DISCONNECTED CONTINUE 1|153|Friday, October 05, 2012 4:29:34 PM|7
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--155|PARTICIPANT DISCONNECTED|155|Friday, October 05, 2012 4:29:35 PM|8
+Participant Name: test9
+Participant ID: 8
+Call Disconnection Cause: h323_call_closed_normal
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--156|PARTICIPANT DISCONNECTED CONTINUE 1|155|Friday, October 05, 2012 4:29:35 PM|8
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--157|USER RECONNECT PARTICIPANT|157|Friday, October 05, 2012 4:29:38 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--158|USER RECONNECT PARTICIPANT|158|Friday, October 05, 2012 4:29:38 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--159|USER RECONNECT PARTICIPANT|159|Friday, October 05, 2012 4:29:38 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--160|USER RECONNECT PARTICIPANT|160|Friday, October 05, 2012 4:29:38 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--161|USER RECONNECT PARTICIPANT|161|Friday, October 05, 2012 4:29:38 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--162|USER RECONNECT PARTICIPANT|162|Friday, October 05, 2012 4:29:38 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--163|USER RECONNECT PARTICIPANT|163|Friday, October 05, 2012 4:29:38 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--164|GATEKEEPER INFORMATION|164|Friday, October 05, 2012 4:29:38 PM|0
+Participant Name: test1
+Participant ID: 0
+Gatekeeper Caller ID: 7074a1d0-e246-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--165|GATEKEEPER INFORMATION|165|Friday, October 05, 2012 4:29:38 PM|0
+Participant Name: tes2
+Participant ID: 0
+Gatekeeper Caller ID: 1636c3eb-e246-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--166|PARTICIPANT's LINE RATE CONNECTION|166|Friday, October 05, 2012 4:29:39 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--167|GATEKEEPER INFORMATION|167|Friday, October 05, 2012 4:29:39 PM|0
+Participant Name: test3
+Participant ID: 0
+Gatekeeper Caller ID: 8c4d8e0e-e346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--168|H323 PARTICIPANT CONNECTED|168|Friday, October 05, 2012 4:29:39 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--169|PARTICIPANT's LINE RATE CONNECTION|169|Friday, October 05, 2012 4:29:39 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--170|H323 PARTICIPANT CONNECTED|170|Friday, October 05, 2012 4:29:39 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--171|GATEKEEPER INFORMATION|171|Friday, October 05, 2012 4:29:39 PM|0
+Participant Name: test6
+Participant ID: 0
+Gatekeeper Caller ID: af108a27-e346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--172|PARTICIPANT's LINE RATE CONNECTION|172|Friday, October 05, 2012 4:29:40 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--173|GATEKEEPER INFORMATION|173|Friday, October 05, 2012 4:29:40 PM|0
+Participant Name: test7
+Participant ID: 0
+Gatekeeper Caller ID: 5f372e48-e346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--174|H323 PARTICIPANT CONNECTED|174|Friday, October 05, 2012 4:29:40 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--175|PARTICIPANT's LINE RATE CONNECTION|175|Friday, October 05, 2012 4:29:40 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--176|H323 PARTICIPANT CONNECTED|176|Friday, October 05, 2012 4:29:40 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--177|GATEKEEPER INFORMATION|177|Friday, October 05, 2012 4:29:40 PM|0
+Participant Name: test8
+Participant ID: 0
+Gatekeeper Caller ID: 92869865-e346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--178|PARTICIPANT's LINE RATE CONNECTION|178|Friday, October 05, 2012 4:29:41 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--179|H323 PARTICIPANT CONNECTED|179|Friday, October 05, 2012 4:29:41 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--180|GATEKEEPER INFORMATION|180|Friday, October 05, 2012 4:29:41 PM|0
+Participant Name: test9
+Participant ID: 0
+Gatekeeper Caller ID: 3b0bda83-e346-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--181|PARTICIPANT's LINE RATE CONNECTION|181|Friday, October 05, 2012 4:29:41 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--182|H323 PARTICIPANT CONNECTED|182|Friday, October 05, 2012 4:29:41 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--183|PARTICIPANT's LINE RATE CONNECTION|183|Friday, October 05, 2012 4:29:42 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--184|H323 PARTICIPANT CONNECTED|184|Friday, October 05, 2012 4:29:42 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--185|USER ADD PARTICIPANT|185|Friday, October 05, 2012 4:30:02 PM|9
+User Name: SUPPORT
+Participant Name: test10
+Participant ID: 9
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--186|USER ADD PARTICIPANT CONTINUE 1|185|Friday, October 05, 2012 4:30:02 PM|9
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--187|USER ADD PARTICIPANT CONTINUE 2|185|Friday, October 05, 2012 4:30:02 PM|9
+Participant Name: test10
+Participant ID: 9
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--188|PARTICIPANT INFO|185|Friday, October 05, 2012 4:30:02 PM|9
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--189|GATEKEEPER INFORMATION|189|Friday, October 05, 2012 4:30:02 PM|0
+Participant Name: test10
+Participant ID: 0
+Gatekeeper Caller ID: cac3667c-e846-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--190|PARTICIPANT's LINE RATE CONNECTION|190|Friday, October 05, 2012 4:30:03 PM|9
+Participant Name: test10
+Participant ID: 9
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--191|H323 PARTICIPANT CONNECTED|191|Friday, October 05, 2012 4:30:03 PM|9
+Participant Name: test10
+Participant ID: 9
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--192|USER ADD PARTICIPANT|192|Friday, October 05, 2012 4:30:07 PM|10
+User Name: SUPPORT
+Participant Name: test11
+Participant ID: 10
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--193|USER ADD PARTICIPANT CONTINUE 1|192|Friday, October 05, 2012 4:30:07 PM|10
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--194|USER ADD PARTICIPANT CONTINUE 2|192|Friday, October 05, 2012 4:30:07 PM|10
+Participant Name: test11
+Participant ID: 10
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--195|PARTICIPANT INFO|192|Friday, October 05, 2012 4:30:07 PM|10
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--196|GATEKEEPER INFORMATION|196|Friday, October 05, 2012 4:30:07 PM|0
+Participant Name: test11
+Participant ID: 0
+Gatekeeper Caller ID: 4ecf3287-e946-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--197|PARTICIPANT's LINE RATE CONNECTION|197|Friday, October 05, 2012 4:30:08 PM|10
+Participant Name: test11
+Participant ID: 10
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--198|H323 PARTICIPANT CONNECTED|198|Friday, October 05, 2012 4:30:08 PM|10
+Participant Name: test11
+Participant ID: 10
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--199|USER DISCONNECT PARTICIPANT|199|Friday, October 05, 2012 4:30:20 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--200|USER DISCONNECT PARTICIPANT|200|Friday, October 05, 2012 4:30:20 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--201|USER DISCONNECT PARTICIPANT|201|Friday, October 05, 2012 4:30:20 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--202|USER DISCONNECT PARTICIPANT|202|Friday, October 05, 2012 4:30:20 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--203|USER DISCONNECT PARTICIPANT|203|Friday, October 05, 2012 4:30:20 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--204|USER DISCONNECT PARTICIPANT|204|Friday, October 05, 2012 4:30:20 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--205|USER DISCONNECT PARTICIPANT|205|Friday, October 05, 2012 4:30:20 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--206|USER DISCONNECT PARTICIPANT|206|Friday, October 05, 2012 4:30:20 PM|9
+User Name: SUPPORT
+Participant Name: test10
+Participant ID: 9
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--207|USER DISCONNECT PARTICIPANT|207|Friday, October 05, 2012 4:30:20 PM|10
+User Name: SUPPORT
+Participant Name: test11
+Participant ID: 10
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--208|PARTICIPANT DISCONNECTED|208|Friday, October 05, 2012 4:30:21 PM|2
+Participant Name: test1
+Participant ID: 2
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--209|PARTICIPANT DISCONNECTED CONTINUE 1|208|Friday, October 05, 2012 4:30:21 PM|2
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--210|PARTICIPANT DISCONNECTED|210|Friday, October 05, 2012 4:30:21 PM|3
+Participant Name: tes2
+Participant ID: 3
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--211|PARTICIPANT DISCONNECTED CONTINUE 1|210|Friday, October 05, 2012 4:30:21 PM|3
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--212|PARTICIPANT DISCONNECTED|212|Friday, October 05, 2012 4:30:22 PM|4
+Participant Name: test3
+Participant ID: 4
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--213|PARTICIPANT DISCONNECTED CONTINUE 1|212|Friday, October 05, 2012 4:30:22 PM|4
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--214|PARTICIPANT DISCONNECTED|214|Friday, October 05, 2012 4:30:22 PM|5
+Participant Name: test6
+Participant ID: 5
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--215|PARTICIPANT DISCONNECTED CONTINUE 1|214|Friday, October 05, 2012 4:30:22 PM|5
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--216|PARTICIPANT DISCONNECTED|216|Friday, October 05, 2012 4:30:23 PM|6
+Participant Name: test7
+Participant ID: 6
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--217|PARTICIPANT DISCONNECTED CONTINUE 1|216|Friday, October 05, 2012 4:30:23 PM|6
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--218|PARTICIPANT DISCONNECTED|218|Friday, October 05, 2012 4:30:23 PM|7
+Participant Name: test8
+Participant ID: 7
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--219|PARTICIPANT DISCONNECTED CONTINUE 1|218|Friday, October 05, 2012 4:30:23 PM|7
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--220|PARTICIPANT DISCONNECTED|220|Friday, October 05, 2012 4:30:24 PM|8
+Participant Name: test9
+Participant ID: 8
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--221|PARTICIPANT DISCONNECTED CONTINUE 1|220|Friday, October 05, 2012 4:30:24 PM|8
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--222|PARTICIPANT DISCONNECTED|222|Friday, October 05, 2012 4:30:24 PM|9
+Participant Name: test10
+Participant ID: 9
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--223|PARTICIPANT DISCONNECTED CONTINUE 1|222|Friday, October 05, 2012 4:30:24 PM|9
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--224|PARTICIPANT DISCONNECTED|224|Friday, October 05, 2012 4:30:25 PM|10
+Participant Name: test11
+Participant ID: 10
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--225|PARTICIPANT DISCONNECTED CONTINUE 1|224|Friday, October 05, 2012 4:30:25 PM|10
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--226|USER DISCONNECT PARTICIPANT|226|Friday, October 05, 2012 4:30:34 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--227|PARTICIPANT DISCONNECTED|227|Friday, October 05, 2012 4:30:35 PM|1
+Participant Name: test
+Participant ID: 1
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--228|PARTICIPANT DISCONNECTED CONTINUE 1|227|Friday, October 05, 2012 4:30:35 PM|1
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--229|USER ADD PARTICIPANT|229|Friday, October 05, 2012 4:30:59 PM|11
+User Name: SUPPORT
+Participant Name: test12
+Participant ID: 11
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--230|USER ADD PARTICIPANT CONTINUE 1|229|Friday, October 05, 2012 4:30:59 PM|11
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--231|USER ADD PARTICIPANT CONTINUE 2|229|Friday, October 05, 2012 4:30:59 PM|11
+Participant Name: test12
+Participant ID: 11
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--232|PARTICIPANT INFO|229|Friday, October 05, 2012 4:30:59 PM|11
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--233|GATEKEEPER INFORMATION|233|Friday, October 05, 2012 4:30:59 PM|0
+Participant Name: test12
+Participant ID: 0
+Gatekeeper Caller ID: 30e033a9-f546-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--234|PARTICIPANT's LINE RATE CONNECTION|234|Friday, October 05, 2012 4:31:00 PM|11
+Participant Name: test12
+Participant ID: 11
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--235|H323 PARTICIPANT CONNECTED|235|Friday, October 05, 2012 4:31:00 PM|11
+Participant Name: test12
+Participant ID: 11
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--236|USER ADD PARTICIPANT|236|Friday, October 05, 2012 4:31:04 PM|12
+User Name: SUPPORT
+Participant Name: test13
+Participant ID: 12
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--237|USER ADD PARTICIPANT CONTINUE 1|236|Friday, October 05, 2012 4:31:04 PM|12
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--238|USER ADD PARTICIPANT CONTINUE 2|236|Friday, October 05, 2012 4:31:04 PM|12
+Participant Name: test13
+Participant ID: 12
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--239|PARTICIPANT INFO|236|Friday, October 05, 2012 4:31:04 PM|12
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--240|GATEKEEPER INFORMATION|240|Friday, October 05, 2012 4:31:04 PM|0
+Participant Name: test13
+Participant ID: 0
+Gatekeeper Caller ID: 42844bd0-f646-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--241|PARTICIPANT's LINE RATE CONNECTION|241|Friday, October 05, 2012 4:31:05 PM|12
+Participant Name: test13
+Participant ID: 12
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--242|H323 PARTICIPANT CONNECTED|242|Friday, October 05, 2012 4:31:05 PM|12
+Participant Name: test13
+Participant ID: 12
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--243|USER ADD PARTICIPANT|243|Friday, October 05, 2012 4:31:08 PM|13
+User Name: SUPPORT
+Participant Name: test14
+Participant ID: 13
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--244|USER ADD PARTICIPANT CONTINUE 1|243|Friday, October 05, 2012 4:31:08 PM|13
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--245|USER ADD PARTICIPANT CONTINUE 2|243|Friday, October 05, 2012 4:31:08 PM|13
+Participant Name: test14
+Participant ID: 13
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--246|PARTICIPANT INFO|243|Friday, October 05, 2012 4:31:08 PM|13
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--247|GATEKEEPER INFORMATION|247|Friday, October 05, 2012 4:31:08 PM|0
+Participant Name: test14
+Participant ID: 0
+Gatekeeper Caller ID: f8f6f9c4-f746-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--248|PARTICIPANT's LINE RATE CONNECTION|248|Friday, October 05, 2012 4:31:09 PM|13
+Participant Name: test14
+Participant ID: 13
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--249|H323 PARTICIPANT CONNECTED|249|Friday, October 05, 2012 4:31:09 PM|13
+Participant Name: test14
+Participant ID: 13
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--250|USER ADD PARTICIPANT|250|Friday, October 05, 2012 4:31:15 PM|14
+User Name: SUPPORT
+Participant Name: test15
+Participant ID: 14
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--251|USER ADD PARTICIPANT CONTINUE 1|250|Friday, October 05, 2012 4:31:15 PM|14
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--252|USER ADD PARTICIPANT CONTINUE 2|250|Friday, October 05, 2012 4:31:15 PM|14
+Participant Name: test15
+Participant ID: 14
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--253|PARTICIPANT INFO|250|Friday, October 05, 2012 4:31:15 PM|14
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--254|GATEKEEPER INFORMATION|254|Friday, October 05, 2012 4:31:15 PM|0
+Participant Name: test15
+Participant ID: 0
+Gatekeeper Caller ID: 08817e71-f946-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--255|PARTICIPANT's LINE RATE CONNECTION|255|Friday, October 05, 2012 4:31:16 PM|14
+Participant Name: test15
+Participant ID: 14
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--256|H323 PARTICIPANT CONNECTED|256|Friday, October 05, 2012 4:31:16 PM|14
+Participant Name: test15
+Participant ID: 14
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--257|USER ADD PARTICIPANT|257|Friday, October 05, 2012 4:31:19 PM|15
+User Name: SUPPORT
+Participant Name: test16
+Participant ID: 15
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--258|USER ADD PARTICIPANT CONTINUE 1|257|Friday, October 05, 2012 4:31:19 PM|15
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--259|USER ADD PARTICIPANT CONTINUE 2|257|Friday, October 05, 2012 4:31:19 PM|15
+Participant Name: test16
+Participant ID: 15
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--260|PARTICIPANT INFO|257|Friday, October 05, 2012 4:31:19 PM|15
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--261|GATEKEEPER INFORMATION|261|Friday, October 05, 2012 4:31:19 PM|0
+Participant Name: test16
+Participant ID: 0
+Gatekeeper Caller ID: 0ec47275-fa46-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--262|PARTICIPANT's LINE RATE CONNECTION|262|Friday, October 05, 2012 4:31:20 PM|15
+Participant Name: test16
+Participant ID: 15
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--263|H323 PARTICIPANT CONNECTED|263|Friday, October 05, 2012 4:31:20 PM|15
+Participant Name: test16
+Participant ID: 15
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--264|USER ADD PARTICIPANT|264|Friday, October 05, 2012 4:31:24 PM|16
+User Name: SUPPORT
+Participant Name: test17
+Participant ID: 16
+Dialing Direction: Dial out
+Number of Channels: Auto
+Network Service Name: IP Network Service
+Audio Only: No
+Default Number Type: Taken from Service
+Identification Method: Called phone number, IP address or alias
+Meet Me Method: Participant
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--265|USER ADD PARTICIPANT CONTINUE 1|264|Friday, October 05, 2012 4:31:24 PM|16
+Network Type: H.323
+Video Protocol: Auto
+Broadcasting Volume: 5
+Undefined Participant: No
+Node Type: Terminal
+Bonding Phone Number:
+Video Bit Rate: Automatic
+IP Address: 0.0.0.0
+Signaling Port: 1720
+H.323 Participant Alias Type: E164
+H.323 Participant Alias Name: 371001
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--266|USER ADD PARTICIPANT CONTINUE 2|264|Friday, October 05, 2012 4:31:24 PM|16
+Participant Name: test17
+Participant ID: 16
+Encryption: auto
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--267|PARTICIPANT INFO|264|Friday, October 05, 2012 4:31:24 PM|16
+Info1:
+Info2:
+Info3:
+Info4:
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--268|GATEKEEPER INFORMATION|268|Friday, October 05, 2012 4:31:24 PM|0
+Participant Name: test17
+Participant ID: 0
+Gatekeeper Caller ID: 5580c26f-fb46-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--269|PARTICIPANT's LINE RATE CONNECTION|269|Friday, October 05, 2012 4:31:25 PM|16
+Participant Name: test17
+Participant ID: 16
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--270|H323 PARTICIPANT CONNECTED|270|Friday, October 05, 2012 4:31:25 PM|16
+Participant Name: test17
+Participant ID: 16
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--271|USER DISCONNECT PARTICIPANT|271|Friday, October 05, 2012 4:31:28 PM|11
+User Name: SUPPORT
+Participant Name: test12
+Participant ID: 11
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--272|USER DISCONNECT PARTICIPANT|272|Friday, October 05, 2012 4:31:28 PM|12
+User Name: SUPPORT
+Participant Name: test13
+Participant ID: 12
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--273|USER DISCONNECT PARTICIPANT|273|Friday, October 05, 2012 4:31:28 PM|13
+User Name: SUPPORT
+Participant Name: test14
+Participant ID: 13
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--274|USER DISCONNECT PARTICIPANT|274|Friday, October 05, 2012 4:31:28 PM|14
+User Name: SUPPORT
+Participant Name: test15
+Participant ID: 14
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--275|USER DISCONNECT PARTICIPANT|275|Friday, October 05, 2012 4:31:28 PM|15
+User Name: SUPPORT
+Participant Name: test16
+Participant ID: 15
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--276|USER DISCONNECT PARTICIPANT|276|Friday, October 05, 2012 4:31:28 PM|16
+User Name: SUPPORT
+Participant Name: test17
+Participant ID: 16
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--277|PARTICIPANT DISCONNECTED|277|Friday, October 05, 2012 4:31:28 PM|11
+Participant Name: test12
+Participant ID: 11
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--278|PARTICIPANT DISCONNECTED CONTINUE 1|277|Friday, October 05, 2012 4:31:28 PM|11
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--279|PARTICIPANT DISCONNECTED|279|Friday, October 05, 2012 4:31:28 PM|12
+Participant Name: test13
+Participant ID: 12
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--280|PARTICIPANT DISCONNECTED CONTINUE 1|279|Friday, October 05, 2012 4:31:28 PM|12
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--281|PARTICIPANT DISCONNECTED|281|Friday, October 05, 2012 4:31:29 PM|13
+Participant Name: test14
+Participant ID: 13
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--282|PARTICIPANT DISCONNECTED CONTINUE 1|281|Friday, October 05, 2012 4:31:29 PM|13
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--283|PARTICIPANT DISCONNECTED|283|Friday, October 05, 2012 4:31:29 PM|14
+Participant Name: test15
+Participant ID: 14
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--284|PARTICIPANT DISCONNECTED CONTINUE 1|283|Friday, October 05, 2012 4:31:29 PM|14
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--285|PARTICIPANT DISCONNECTED|285|Friday, October 05, 2012 4:31:30 PM|15
+Participant Name: test16
+Participant ID: 15
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--286|PARTICIPANT DISCONNECTED CONTINUE 1|285|Friday, October 05, 2012 4:31:30 PM|15
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--287|PARTICIPANT DISCONNECTED|287|Friday, October 05, 2012 4:31:31 PM|16
+Participant Name: test17
+Participant ID: 16
+Call Disconnection Cause: Disconnected by RMX User
+Q931 Disconnection Cause: default cause or not available (0)
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--288|PARTICIPANT DISCONNECTED CONTINUE 1|287|Friday, October 05, 2012 4:31:31 PM|16
+Rx Synchronization Loss: 0
+Tx Synchronization Loss: 0
+Rx-Video Synchronization Loss: 1
+Tx-Video Synchronization Loss: 0
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--289|USER RECONNECT PARTICIPANT|289|Friday, October 05, 2012 4:32:06 PM|1
+User Name: SUPPORT
+Participant Name: test
+Participant ID: 1
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--290|GATEKEEPER INFORMATION|290|Friday, October 05, 2012 4:32:07 PM|0
+Participant Name: test
+Participant ID: 0
+Gatekeeper Caller ID: 3f849ca3-0547-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--291|PARTICIPANT's LINE RATE CONNECTION|291|Friday, October 05, 2012 4:32:10 PM|1
+Participant Name: test
+Participant ID: 1
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--292|H323 PARTICIPANT CONNECTED|292|Friday, October 05, 2012 4:32:10 PM|1
+Participant Name: test
+Participant ID: 1
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--293|USER RECONNECT PARTICIPANT|293|Friday, October 05, 2012 4:33:01 PM|2
+User Name: SUPPORT
+Participant Name: test1
+Participant ID: 2
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--294|USER RECONNECT PARTICIPANT|294|Friday, October 05, 2012 4:33:01 PM|3
+User Name: SUPPORT
+Participant Name: tes2
+Participant ID: 3
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--295|USER RECONNECT PARTICIPANT|295|Friday, October 05, 2012 4:33:01 PM|4
+User Name: SUPPORT
+Participant Name: test3
+Participant ID: 4
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--296|USER RECONNECT PARTICIPANT|296|Friday, October 05, 2012 4:33:01 PM|5
+User Name: SUPPORT
+Participant Name: test6
+Participant ID: 5
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--297|USER RECONNECT PARTICIPANT|297|Friday, October 05, 2012 4:33:01 PM|6
+User Name: SUPPORT
+Participant Name: test7
+Participant ID: 6
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--298|USER RECONNECT PARTICIPANT|298|Friday, October 05, 2012 4:33:01 PM|7
+User Name: SUPPORT
+Participant Name: test8
+Participant ID: 7
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--299|USER RECONNECT PARTICIPANT|299|Friday, October 05, 2012 4:33:01 PM|8
+User Name: SUPPORT
+Participant Name: test9
+Participant ID: 8
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--300|USER RECONNECT PARTICIPANT|300|Friday, October 05, 2012 4:33:01 PM|9
+User Name: SUPPORT
+Participant Name: test10
+Participant ID: 9
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--301|USER RECONNECT PARTICIPANT|301|Friday, October 05, 2012 4:33:01 PM|10
+User Name: SUPPORT
+Participant Name: test11
+Participant ID: 10
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--302|USER RECONNECT PARTICIPANT|302|Friday, October 05, 2012 4:33:01 PM|11
+User Name: SUPPORT
+Participant Name: test12
+Participant ID: 11
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--303|USER RECONNECT PARTICIPANT|303|Friday, October 05, 2012 4:33:01 PM|12
+User Name: SUPPORT
+Participant Name: test13
+Participant ID: 12
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--304|USER RECONNECT PARTICIPANT|304|Friday, October 05, 2012 4:33:01 PM|13
+User Name: SUPPORT
+Participant Name: test14
+Participant ID: 13
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--305|USER RECONNECT PARTICIPANT|305|Friday, October 05, 2012 4:33:01 PM|14
+User Name: SUPPORT
+Participant Name: test15
+Participant ID: 14
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--306|USER RECONNECT PARTICIPANT|306|Friday, October 05, 2012 4:33:01 PM|15
+User Name: SUPPORT
+Participant Name: test16
+Participant ID: 15
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--307|USER RECONNECT PARTICIPANT|307|Friday, October 05, 2012 4:33:01 PM|16
+User Name: SUPPORT
+Participant Name: test17
+Participant ID: 16
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--308|GATEKEEPER INFORMATION|308|Friday, October 05, 2012 4:33:01 PM|0
+Participant Name: test1
+Participant ID: 0
+Gatekeeper Caller ID: f015641f-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--309|GATEKEEPER INFORMATION|309|Friday, October 05, 2012 4:33:02 PM|0
+Participant Name: tes2
+Participant ID: 0
+Gatekeeper Caller ID: e0498f3a-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--310|GATEKEEPER INFORMATION|310|Friday, October 05, 2012 4:33:02 PM|0
+Participant Name: test3
+Participant ID: 0
+Gatekeeper Caller ID: 69be7a5c-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--311|PARTICIPANT's LINE RATE CONNECTION|311|Friday, October 05, 2012 4:33:02 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--312|H323 PARTICIPANT CONNECTED|312|Friday, October 05, 2012 4:33:02 PM|2
+Participant Name: test1
+Participant ID: 2
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--313|PARTICIPANT's LINE RATE CONNECTION|313|Friday, October 05, 2012 4:33:02 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--314|H323 PARTICIPANT CONNECTED|314|Friday, October 05, 2012 4:33:02 PM|3
+Participant Name: tes2
+Participant ID: 3
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--315|GATEKEEPER INFORMATION|315|Friday, October 05, 2012 4:33:03 PM|0
+Participant Name: test6
+Participant ID: 0
+Gatekeeper Caller ID: cc9c8c78-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--316|PARTICIPANT's LINE RATE CONNECTION|316|Friday, October 05, 2012 4:33:03 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--317|H323 PARTICIPANT CONNECTED|317|Friday, October 05, 2012 4:33:03 PM|4
+Participant Name: test3
+Participant ID: 4
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--318|GATEKEEPER INFORMATION|318|Friday, October 05, 2012 4:33:03 PM|0
+Participant Name: test7
+Participant ID: 0
+Gatekeeper Caller ID: 36edae97-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--319|PARTICIPANT's LINE RATE CONNECTION|319|Friday, October 05, 2012 4:33:03 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--320|H323 PARTICIPANT CONNECTED|320|Friday, October 05, 2012 4:33:04 PM|5
+Participant Name: test6
+Participant ID: 5
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--321|GATEKEEPER INFORMATION|321|Friday, October 05, 2012 4:33:04 PM|0
+Participant Name: test8
+Participant ID: 0
+Gatekeeper Caller ID: 3940c1b6-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--322|PARTICIPANT's LINE RATE CONNECTION|322|Friday, October 05, 2012 4:33:04 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--323|GATEKEEPER INFORMATION|323|Friday, October 05, 2012 4:33:04 PM|0
+Participant Name: test9
+Participant ID: 0
+Gatekeeper Caller ID: 304bedd0-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--324|PARTICIPANT's LINE RATE CONNECTION|324|Friday, October 05, 2012 4:33:04 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--325|GATEKEEPER INFORMATION|325|Friday, October 05, 2012 4:33:05 PM|0
+Participant Name: test10
+Participant ID: 0
+Gatekeeper Caller ID: 05ed71ef-1247-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--326|H323 PARTICIPANT CONNECTED|326|Friday, October 05, 2012 4:33:05 PM|6
+Participant Name: test7
+Participant ID: 6
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--327|H323 PARTICIPANT CONNECTED|327|Friday, October 05, 2012 4:33:05 PM|7
+Participant Name: test8
+Participant ID: 7
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--328|PARTICIPANT's LINE RATE CONNECTION|328|Friday, October 05, 2012 4:33:05 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--329|GATEKEEPER INFORMATION|329|Friday, October 05, 2012 4:33:05 PM|0
+Participant Name: test11
+Participant ID: 0
+Gatekeeper Caller ID: ad6ea50c-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--330|H323 PARTICIPANT CONNECTED|330|Friday, October 05, 2012 4:33:05 PM|8
+Participant Name: test9
+Participant ID: 8
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--331|PARTICIPANT's LINE RATE CONNECTION|331|Friday, October 05, 2012 4:33:05 PM|9
+Participant Name: test10
+Participant ID: 9
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--332|H323 PARTICIPANT CONNECTED|332|Friday, October 05, 2012 4:33:06 PM|9
+Participant Name: test10
+Participant ID: 9
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--333|GATEKEEPER INFORMATION|333|Friday, October 05, 2012 4:33:06 PM|0
+Participant Name: test12
+Participant ID: 0
+Gatekeeper Caller ID: 8d433d2d-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--334|PARTICIPANT's LINE RATE CONNECTION|334|Friday, October 05, 2012 4:33:06 PM|10
+Participant Name: test11
+Participant ID: 10
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--335|H323 PARTICIPANT CONNECTED|335|Friday, October 05, 2012 4:33:06 PM|10
+Participant Name: test11
+Participant ID: 10
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--336|GATEKEEPER INFORMATION|336|Friday, October 05, 2012 4:33:06 PM|0
+Participant Name: test13
+Participant ID: 0
+Gatekeeper Caller ID: 3cdc844e-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--337|PARTICIPANT's LINE RATE CONNECTION|337|Friday, October 05, 2012 4:33:07 PM|11
+Participant Name: test12
+Participant ID: 11
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--338|GATEKEEPER INFORMATION|338|Friday, October 05, 2012 4:33:07 PM|0
+Participant Name: test14
+Participant ID: 0
+Gatekeeper Caller ID: 41e25369-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--339|H323 PARTICIPANT CONNECTED|339|Friday, October 05, 2012 4:33:07 PM|11
+Participant Name: test12
+Participant ID: 11
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--340|PARTICIPANT's LINE RATE CONNECTION|340|Friday, October 05, 2012 4:33:07 PM|12
+Participant Name: test13
+Participant ID: 12
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--341|GATEKEEPER INFORMATION|341|Friday, October 05, 2012 4:33:07 PM|0
+Participant Name: test15
+Participant ID: 0
+Gatekeeper Caller ID: 1b7b4b84-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--342|PARTICIPANT's LINE RATE CONNECTION|342|Friday, October 05, 2012 4:33:07 PM|13
+Participant Name: test14
+Participant ID: 13
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--343|GATEKEEPER INFORMATION|343|Friday, October 05, 2012 4:33:08 PM|0
+Participant Name: test16
+Participant ID: 0
+Gatekeeper Caller ID: a783fca4-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--344|H323 PARTICIPANT CONNECTED|344|Friday, October 05, 2012 4:33:08 PM|12
+Participant Name: test13
+Participant ID: 12
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--345|H323 PARTICIPANT CONNECTED|345|Friday, October 05, 2012 4:33:08 PM|13
+Participant Name: test14
+Participant ID: 13
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--346|PARTICIPANT's LINE RATE CONNECTION|346|Friday, October 05, 2012 4:33:08 PM|14
+Participant Name: test15
+Participant ID: 14
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--347|H323 PARTICIPANT CONNECTED|347|Friday, October 05, 2012 4:33:08 PM|14
+Participant Name: test15
+Participant ID: 14
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--348|GATEKEEPER INFORMATION|348|Friday, October 05, 2012 4:33:08 PM|0
+Participant Name: test17
+Participant ID: 0
+Gatekeeper Caller ID: 26aae5bf-1347-ba1f-0629-ae4fdce5ba6b
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--349|PARTICIPANT's LINE RATE CONNECTION|349|Friday, October 05, 2012 4:33:08 PM|15
+Participant Name: test16
+Participant ID: 15
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--350|H323 PARTICIPANT CONNECTED|350|Friday, October 05, 2012 4:33:09 PM|15
+Participant Name: test16
+Participant ID: 15
+Participant Status: connected
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--351|PARTICIPANT's LINE RATE CONNECTION|351|Friday, October 05, 2012 4:33:09 PM|16
+Participant Name: test17
+Participant ID: 16
+Participant's Current Line Rate: 384 Kbps
+--END CDR BLOCK--
+--BEGIN CDR BLOCK--352|H323 PARTICIPANT CONNECTED|352|Friday, October 05, 2012 4:33:10 PM|16
+Participant Name: test17
+Participant ID: 16
+Participant Status: connected
+--END CDR BLOCK--

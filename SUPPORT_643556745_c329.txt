@@ -1,0 +1,2616 @@
+File Version: 675 
+Conference Routing Name: SUPPORT_643556745 
+Internal Conference ID: 421 
+Reserved Start Time: Friday, October 05, 2012 4:21:03 PM 
+Reserved Duration: 01:00:00 
+Actual Start Time: Friday, October 05, 2012 4:21:03 PM 
+Actual Duration: 01:00:00 
+Status: Ongoing Conference 
+File Name: c329 
+GMT Offset: --4:0 
+File Retrieved: Yes 
+Reserved resources for Audio Participants: 0 
+Reserved resources for Video Participants: 0 
+
+CONFERENCE START
+Friday, October 05, 2012 4:21:03 PM
+Dial-out Manually: No 
+Auto Terminate: Yes 
+Line Rate: 384 Kbps 
+Audio Algorithm: auto 
+Video Session: Continuous Presence 
+Video Format: auto 
+CIF Frame Rate: auto 
+QCIF Frame Rate: auto 
+
+CONFERENCE START CONTINUE 1
+Friday, October 05, 2012 4:21:03 PM
+Talk Hold Time: 300  x 0.01 seconds
+Audio Mix Depth: 5 
+Video Protocol: Auto 
+Meet Me Per Conference: No 
+Chairperson Password:  
+Cascade Mode: None 
+Minimum Number of Participants: 0 
+Allow Undefined Participants: Yes 
+Time Before First Participant Joins (Auto Terminate): 25 minutes
+Time After Last Participant Quits (Auto Terminate): 10 minutes
+Maximum Number of Participants: Automatic 
+Message Service Type: IVR Service 
+Conference IVR Service: Conference IVR Servi 
+Lecture Mode Type: None 
+Lecturer:  
+Time Interval: 15 seconds
+Lecturer View Switching: No 
+Operator conf: False 
+
+CONFERENCE START CONTINUE 4
+Friday, October 05, 2012 4:21:03 PM
+Conference ID: 80438 
+Conference Password:  
+Chairperson Password:  
+Info1:
+Info2:  
+Info3:  
+Billing Info:  
+
+CONFERENCE START CONTINUE 5
+Friday, October 05, 2012 4:21:03 PM
+Encryption: No 
+
+CONFERENCE START CONTINUE 10
+Friday, October 05, 2012 4:21:03 PM
+Display Name: SUPPORT_643556745 
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:21:15 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:21:15 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 140.242.225.81 
+Signaling Port: 1720 
+H.323 Participant Alias Type: H.323 ID 
+H.323 Participant Alias Name:  
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:21:15 PM
+Participant Name: test 
+Participant ID: 1 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:21:15 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:21:16 PM
+Participant Name: test 
+Participant ID: 0 
+Gatekeeper Caller ID: 07c38be4-6d46-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:21:16 PM
+Participant Name: test 
+Participant ID: 1 
+Call Disconnection Cause: h323_call_closed_remote_busy 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:21:16 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 0 
+Tx-Video Synchronization Loss: 0 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:21:56 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:21:56 PM
+Participant Name: test 
+Participant ID: 0 
+Gatekeeper Caller ID: fbb8ba4e-7746-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:21:59 PM
+Participant Name: test 
+Participant ID: 1 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:21:59 PM
+Participant Name: test 
+Participant ID: 1 
+Participant Status: connected 
+  
+  
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:22:25 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:22:25 PM
+Participant Name: test 
+Participant ID: 1 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:22:25 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:22:53 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:22:54 PM
+Participant Name: test 
+Participant ID: 0 
+Gatekeeper Caller ID: 01b850ae-8446-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:22:56 PM
+Participant Name: test 
+Participant ID: 1 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:22:56 PM
+Participant Name: test 
+Participant ID: 1 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:24:02 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:24:02 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: Email ID 
+H.323 Participant Alias Name: 1001@172.25.24.52 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:24:02 PM
+Participant Name: test1 
+Participant ID: 2 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:24:02 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:24:04 PM
+Participant Name: test1 
+Participant ID: 2 
+Call Disconnection Cause: h323_call_closed_remote_unreachable 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:24:04 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 0 
+Tx-Video Synchronization Loss: 0 
+
+USER UPDATE PARTICIPANT
+Friday, October 05, 2012 4:24:19 PM
+User Name:  
+Participant Name: test1 
+Participant ID: 2 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Unknown 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER UPDATE PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:24:19 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 521001 
+
+USER UPDATE PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:24:19 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 521001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:24:19 PM
+Encryption: auto 
+Participant Name: test1 
+Participant ID: 2 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:24:19 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:24:20 PM
+Participant Name: test1 
+Participant ID: 2 
+Call Disconnection Cause: h323_call_closed_gatekeeper_reject_arq 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:24:21 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 0 
+Tx-Video Synchronization Loss: 0 
+
+USER UPDATE PARTICIPANT
+Friday, October 05, 2012 4:25:49 PM
+User Name:  
+Participant Name: test1 
+Participant ID: 2 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Unknown 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER UPDATE PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:25:49 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER UPDATE PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:25:49 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:25:49 PM
+Encryption: auto 
+Participant Name: test1 
+Participant ID: 2 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:25:49 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:25:50 PM
+Participant Name: test1 
+Participant ID: 0 
+Gatekeeper Caller ID: 4bff61b3-ad46-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:25:51 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:25:51 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:05 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:05 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:05 PM
+Participant Name: tes2 
+Participant ID: 3 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:05 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:06 PM
+Participant Name: tes2 
+Participant ID: 0 
+Gatekeeper Caller ID: a12cbf5e-b146-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:06 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:07 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:14 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:14 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:14 PM
+Participant Name: test3 
+Participant ID: 4 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:14 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:14 PM
+Participant Name: test3 
+Participant ID: 0 
+Gatekeeper Caller ID: b800c571-b346-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:15 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:16 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:21 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:21 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:21 PM
+Participant Name: test6 
+Participant ID: 5 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:21 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:21 PM
+Participant Name: test6 
+Participant ID: 0 
+Gatekeeper Caller ID: 370273fd-b446-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:22 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:22 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:28 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:28 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:28 PM
+Participant Name: test7 
+Participant ID: 6 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:28 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:28 PM
+Participant Name: test7 
+Participant ID: 0 
+Gatekeeper Caller ID: b00e4798-b646-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:29 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:29 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:34 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:34 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:34 PM
+Participant Name: test8 
+Participant ID: 7 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:34 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:34 PM
+Participant Name: test8 
+Participant ID: 0 
+Gatekeeper Caller ID: cc5b8b09-b846-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:35 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:35 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:26:39 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:26:39 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:26:39 PM
+Participant Name: test9 
+Participant ID: 8 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:26:39 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:26:39 PM
+Participant Name: test9 
+Participant ID: 0 
+Gatekeeper Caller ID: 97f60b30-b946-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:26:40 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:26:41 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant Status: connected 
+  
+  
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:26:52 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:52 PM
+Participant Name: test 
+Participant ID: 1 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:52 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:53 PM
+Participant Name: test1 
+Participant ID: 2 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:53 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:53 PM
+Participant Name: tes2 
+Participant ID: 3 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:53 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:54 PM
+Participant Name: test3 
+Participant ID: 4 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:54 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:54 PM
+Participant Name: test6 
+Participant ID: 5 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:54 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:55 PM
+Participant Name: test7 
+Participant ID: 6 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:55 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:55 PM
+Participant Name: test8 
+Participant ID: 7 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:55 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:26:56 PM
+Participant Name: test9 
+Participant ID: 8 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:26:56 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:03 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:03 PM
+Participant Name: test 
+Participant ID: 0 
+Gatekeeper Caller ID: 7a8696d4-be46-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:06 PM
+Participant Name: test 
+Participant ID: 1 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:06 PM
+Participant Name: test 
+Participant ID: 1 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:11 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:11 PM
+Participant Name: test1 
+Participant ID: 0 
+Gatekeeper Caller ID: d603c9a6-c046-ba1f-0629-ae4fdce5ba6b 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:12 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:12 PM
+Participant Name: tes2 
+Participant ID: 0 
+Gatekeeper Caller ID: 84d2d9d8-c046-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:12 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:12 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:13 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:13 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:13 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:13 PM
+Participant Name: test3 
+Participant ID: 0 
+Gatekeeper Caller ID: 6bc8cb0f-c146-ba1f-0629-ae4fdce5ba6b 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:14 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:14 PM
+Participant Name: test6 
+Participant ID: 0 
+Gatekeeper Caller ID: 4970f53f-c146-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:14 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:14 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:14 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:15 PM
+Participant Name: test7 
+Participant ID: 0 
+Gatekeeper Caller ID: 3cee0a73-c146-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:15 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:15 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:15 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:15 PM
+Participant Name: test8 
+Participant ID: 0 
+Gatekeeper Caller ID: c1246ca4-c146-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:15 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:16 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:27:16 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:16 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:27:16 PM
+Participant Name: test9 
+Participant ID: 0 
+Gatekeeper Caller ID: e4a51ae1-c146-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:16 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:27:17 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:27:17 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:32 PM
+Participant Name: test1 
+Participant ID: 2 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:32 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:32 PM
+Participant Name: tes2 
+Participant ID: 3 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:32 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:33 PM
+Participant Name: test3 
+Participant ID: 4 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:33 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:33 PM
+Participant Name: test6 
+Participant ID: 5 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:33 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:34 PM
+Participant Name: test7 
+Participant ID: 6 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:34 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:34 PM
+Participant Name: test8 
+Participant ID: 7 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:34 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:29:35 PM
+Participant Name: test9 
+Participant ID: 8 
+Call Disconnection Cause: h323_call_closed_normal 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:29:35 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:29:38 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:38 PM
+Participant Name: test1 
+Participant ID: 0 
+Gatekeeper Caller ID: 7074a1d0-e246-ba1f-0629-ae4fdce5ba6b 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:38 PM
+Participant Name: tes2 
+Participant ID: 0 
+Gatekeeper Caller ID: 1636c3eb-e246-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: test3 
+Participant ID: 0 
+Gatekeeper Caller ID: 8c4d8e0e-e346-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:39 PM
+Participant Name: test6 
+Participant ID: 0 
+Gatekeeper Caller ID: af108a27-e346-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test7 
+Participant ID: 0 
+Gatekeeper Caller ID: 5f372e48-e346-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:40 PM
+Participant Name: test8 
+Participant ID: 0 
+Gatekeeper Caller ID: 92869865-e346-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:41 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:41 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:29:41 PM
+Participant Name: test9 
+Participant ID: 0 
+Gatekeeper Caller ID: 3b0bda83-e346-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:41 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:41 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:29:42 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:29:42 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:30:02 PM
+User Name: SUPPORT 
+Participant Name: test10 
+Participant ID: 9 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:30:02 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:30:02 PM
+Participant Name: test10 
+Participant ID: 9 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:30:02 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:30:02 PM
+Participant Name: test10 
+Participant ID: 0 
+Gatekeeper Caller ID: cac3667c-e846-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:30:03 PM
+Participant Name: test10 
+Participant ID: 9 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:30:03 PM
+Participant Name: test10 
+Participant ID: 9 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:30:07 PM
+User Name: SUPPORT 
+Participant Name: test11 
+Participant ID: 10 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:30:07 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:30:07 PM
+Participant Name: test11 
+Participant ID: 10 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:30:07 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:30:07 PM
+Participant Name: test11 
+Participant ID: 0 
+Gatekeeper Caller ID: 4ecf3287-e946-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:30:08 PM
+Participant Name: test11 
+Participant ID: 10 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:30:08 PM
+Participant Name: test11 
+Participant ID: 10 
+Participant Status: connected 
+  
+  
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test10 
+Participant ID: 9 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:20 PM
+User Name: SUPPORT 
+Participant Name: test11 
+Participant ID: 10 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:21 PM
+Participant Name: test1 
+Participant ID: 2 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:21 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:21 PM
+Participant Name: tes2 
+Participant ID: 3 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:21 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:22 PM
+Participant Name: test3 
+Participant ID: 4 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:22 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:22 PM
+Participant Name: test6 
+Participant ID: 5 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:22 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:23 PM
+Participant Name: test7 
+Participant ID: 6 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:23 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:23 PM
+Participant Name: test8 
+Participant ID: 7 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:23 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:24 PM
+Participant Name: test9 
+Participant ID: 8 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:24 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:24 PM
+Participant Name: test10 
+Participant ID: 9 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:24 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:25 PM
+Participant Name: test11 
+Participant ID: 10 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:25 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:30:34 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:30:35 PM
+Participant Name: test 
+Participant ID: 1 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:30:35 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:30:59 PM
+User Name: SUPPORT 
+Participant Name: test12 
+Participant ID: 11 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:30:59 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:30:59 PM
+Participant Name: test12 
+Participant ID: 11 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:30:59 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:30:59 PM
+Participant Name: test12 
+Participant ID: 0 
+Gatekeeper Caller ID: 30e033a9-f546-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:00 PM
+Participant Name: test12 
+Participant ID: 11 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:00 PM
+Participant Name: test12 
+Participant ID: 11 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:31:04 PM
+User Name: SUPPORT 
+Participant Name: test13 
+Participant ID: 12 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:31:04 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:31:04 PM
+Participant Name: test13 
+Participant ID: 12 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:31:04 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:31:04 PM
+Participant Name: test13 
+Participant ID: 0 
+Gatekeeper Caller ID: 42844bd0-f646-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:05 PM
+Participant Name: test13 
+Participant ID: 12 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:05 PM
+Participant Name: test13 
+Participant ID: 12 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:31:08 PM
+User Name: SUPPORT 
+Participant Name: test14 
+Participant ID: 13 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:31:08 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:31:08 PM
+Participant Name: test14 
+Participant ID: 13 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:31:08 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:31:08 PM
+Participant Name: test14 
+Participant ID: 0 
+Gatekeeper Caller ID: f8f6f9c4-f746-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:09 PM
+Participant Name: test14 
+Participant ID: 13 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:09 PM
+Participant Name: test14 
+Participant ID: 13 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:31:15 PM
+User Name: SUPPORT 
+Participant Name: test15 
+Participant ID: 14 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:31:15 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:31:15 PM
+Participant Name: test15 
+Participant ID: 14 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:31:15 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:31:15 PM
+Participant Name: test15 
+Participant ID: 0 
+Gatekeeper Caller ID: 08817e71-f946-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:16 PM
+Participant Name: test15 
+Participant ID: 14 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:16 PM
+Participant Name: test15 
+Participant ID: 14 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:31:19 PM
+User Name: SUPPORT 
+Participant Name: test16 
+Participant ID: 15 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:31:19 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:31:19 PM
+Participant Name: test16 
+Participant ID: 15 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:31:19 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:31:19 PM
+Participant Name: test16 
+Participant ID: 0 
+Gatekeeper Caller ID: 0ec47275-fa46-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:20 PM
+Participant Name: test16 
+Participant ID: 15 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:20 PM
+Participant Name: test16 
+Participant ID: 15 
+Participant Status: connected 
+  
+  
+
+USER ADD PARTICIPANT
+Friday, October 05, 2012 4:31:24 PM
+User Name: SUPPORT 
+Participant Name: test17 
+Participant ID: 16 
+Dialing Direction: Dial out 
+Number of Channels: Auto 
+Network Service Name: IP Network Service 
+Audio Only: No 
+Default Number Type: Taken from Service 
+Identification Method: Called phone number, IP address or alias 
+Meet Me Method: Participant 
+
+USER ADD PARTICIPANT CONTINUE 1
+Friday, October 05, 2012 4:31:24 PM
+Network Type: H.323 
+Video Protocol: Auto 
+Broadcasting Volume: 5 
+Undefined Participant: No 
+Node Type: Terminal 
+Bonding Phone Number:  
+Video Bit Rate: Automatic 
+IP Address: 0.0.0.0 
+Signaling Port: 1720 
+H.323 Participant Alias Type: E164 
+H.323 Participant Alias Name: 371001 
+
+USER ADD PARTICIPANT CONTINUE 2
+Friday, October 05, 2012 4:31:24 PM
+Participant Name: test17 
+Participant ID: 16 
+Encryption: auto 
+
+PARTICIPANT INFO
+Friday, October 05, 2012 4:31:24 PM
+Info1:
+Info2:  
+Info3:  
+Info4:  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:31:24 PM
+Participant Name: test17 
+Participant ID: 0 
+Gatekeeper Caller ID: 5580c26f-fb46-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:31:25 PM
+Participant Name: test17 
+Participant ID: 16 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:31:25 PM
+Participant Name: test17 
+Participant ID: 16 
+Participant Status: connected 
+  
+  
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test12 
+Participant ID: 11 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test13 
+Participant ID: 12 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test14 
+Participant ID: 13 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test15 
+Participant ID: 14 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test16 
+Participant ID: 15 
+
+USER DISCONNECT PARTICIPANT
+Friday, October 05, 2012 4:31:28 PM
+User Name: SUPPORT 
+Participant Name: test17 
+Participant ID: 16 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:28 PM
+Participant Name: test12 
+Participant ID: 11 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:28 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:28 PM
+Participant Name: test13 
+Participant ID: 12 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:28 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:29 PM
+Participant Name: test14 
+Participant ID: 13 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:29 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:29 PM
+Participant Name: test15 
+Participant ID: 14 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:29 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:30 PM
+Participant Name: test16 
+Participant ID: 15 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:30 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+PARTICIPANT DISCONNECTED
+Friday, October 05, 2012 4:31:31 PM
+Participant Name: test17 
+Participant ID: 16 
+Call Disconnection Cause: Disconnected by RMX User 
+Q931 Disconnection Cause: default cause or not available (0) 
+
+PARTICIPANT DISCONNECTED CONTINUE 1
+Friday, October 05, 2012 4:31:31 PM
+Rx Synchronization Loss: 0 
+Tx Synchronization Loss: 0 
+Rx-Video Synchronization Loss: 1 
+Tx-Video Synchronization Loss: 0 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:32:06 PM
+User Name: SUPPORT 
+Participant Name: test 
+Participant ID: 1 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:32:07 PM
+Participant Name: test 
+Participant ID: 0 
+Gatekeeper Caller ID: 3f849ca3-0547-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:32:10 PM
+Participant Name: test 
+Participant ID: 1 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:32:10 PM
+Participant Name: test 
+Participant ID: 1 
+Participant Status: connected 
+  
+  
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test1 
+Participant ID: 2 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: tes2 
+Participant ID: 3 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test3 
+Participant ID: 4 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test6 
+Participant ID: 5 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test7 
+Participant ID: 6 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test8 
+Participant ID: 7 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test9 
+Participant ID: 8 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test10 
+Participant ID: 9 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test11 
+Participant ID: 10 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test12 
+Participant ID: 11 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test13 
+Participant ID: 12 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test14 
+Participant ID: 13 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test15 
+Participant ID: 14 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test16 
+Participant ID: 15 
+
+USER RECONNECT PARTICIPANT
+Friday, October 05, 2012 4:33:01 PM
+User Name: SUPPORT 
+Participant Name: test17 
+Participant ID: 16 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:01 PM
+Participant Name: test1 
+Participant ID: 0 
+Gatekeeper Caller ID: f015641f-1247-ba1f-0629-ae4fdce5ba6b 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: tes2 
+Participant ID: 0 
+Gatekeeper Caller ID: e0498f3a-1247-ba1f-0629-ae4fdce5ba6b 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: test3 
+Participant ID: 0 
+Gatekeeper Caller ID: 69be7a5c-1247-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: test1 
+Participant ID: 2 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:02 PM
+Participant Name: tes2 
+Participant ID: 3 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:03 PM
+Participant Name: test6 
+Participant ID: 0 
+Gatekeeper Caller ID: cc9c8c78-1247-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:03 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:03 PM
+Participant Name: test3 
+Participant ID: 4 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:03 PM
+Participant Name: test7 
+Participant ID: 0 
+Gatekeeper Caller ID: 36edae97-1247-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:03 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:04 PM
+Participant Name: test6 
+Participant ID: 5 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:04 PM
+Participant Name: test8 
+Participant ID: 0 
+Gatekeeper Caller ID: 3940c1b6-1247-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:04 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:04 PM
+Participant Name: test9 
+Participant ID: 0 
+Gatekeeper Caller ID: 304bedd0-1247-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:04 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test10 
+Participant ID: 0 
+Gatekeeper Caller ID: 05ed71ef-1247-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test7 
+Participant ID: 6 
+Participant Status: connected 
+  
+  
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test8 
+Participant ID: 7 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test11 
+Participant ID: 0 
+Gatekeeper Caller ID: ad6ea50c-1347-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test9 
+Participant ID: 8 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:05 PM
+Participant Name: test10 
+Participant ID: 9 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:06 PM
+Participant Name: test10 
+Participant ID: 9 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:06 PM
+Participant Name: test12 
+Participant ID: 0 
+Gatekeeper Caller ID: 8d433d2d-1347-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:06 PM
+Participant Name: test11 
+Participant ID: 10 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:06 PM
+Participant Name: test11 
+Participant ID: 10 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:06 PM
+Participant Name: test13 
+Participant ID: 0 
+Gatekeeper Caller ID: 3cdc844e-1347-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test12 
+Participant ID: 11 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test14 
+Participant ID: 0 
+Gatekeeper Caller ID: 41e25369-1347-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test12 
+Participant ID: 11 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test13 
+Participant ID: 12 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test15 
+Participant ID: 0 
+Gatekeeper Caller ID: 1b7b4b84-1347-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:07 PM
+Participant Name: test14 
+Participant ID: 13 
+Participant's Current Line Rate: 384 Kbps 
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test16 
+Participant ID: 0 
+Gatekeeper Caller ID: a783fca4-1347-ba1f-0629-ae4fdce5ba6b 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test13 
+Participant ID: 12 
+Participant Status: connected 
+  
+  
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test14 
+Participant ID: 13 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test15 
+Participant ID: 14 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test15 
+Participant ID: 14 
+Participant Status: connected 
+  
+  
+
+GATEKEEPER INFORMATION
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test17 
+Participant ID: 0 
+Gatekeeper Caller ID: 26aae5bf-1347-ba1f-0629-ae4fdce5ba6b 
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:08 PM
+Participant Name: test16 
+Participant ID: 15 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:09 PM
+Participant Name: test16 
+Participant ID: 15 
+Participant Status: connected 
+  
+  
+
+PARTICIPANT's LINE RATE CONNECTION
+Friday, October 05, 2012 4:33:09 PM
+Participant Name: test17 
+Participant ID: 16 
+Participant's Current Line Rate: 384 Kbps 
+
+H323 PARTICIPANT CONNECTED
+Friday, October 05, 2012 4:33:10 PM
+Participant Name: test17 
+Participant ID: 16 
+Participant Status: connected 
+  
+  
+
